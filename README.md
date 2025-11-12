@@ -29,7 +29,9 @@
 
 ### Minhas estatísticas
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillelimade&layout=donut&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&hide_border=true" alt="Linguagens mais usadas - formato donut" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camillelimade&show_icons=true&locale=pt-br&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f" alt="Estatísticas do GitHub" />
