@@ -21,6 +21,7 @@
 ---
 
 ### Linguagens e Ferramentas
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,linux&theme=dark" />
 </p>
@@ -30,12 +31,11 @@
 ### Minhas estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillelimade&layout=donut&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&hide_border=true" alt="Linguagens mais usadas - formato donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillelimade&layout=donut&bg_color=000000&text_color=ffffff&title_color=00ff7f" alt="Donut de linguagens" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camillelimade&show_icons=true&locale=pt-br&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f" alt="Estatísticas do GitHub" />
-</p>
+
+<!--<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,php,python,mysql&theme=darkmode" alt="Ícones de linguagens – widget skills" />-->
 
 ### Minha atividade atualmente
 
