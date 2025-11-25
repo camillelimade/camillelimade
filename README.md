@@ -9,16 +9,11 @@
 -  Colaboradora no projeto [SACC - Sistema de Avaliação do Ceará Científico](https://github.com/JAndrade912/Sistema-Ceara-Cientifico-Crede-07)
 -  Onde me encontrar: **camilledds0@gmail.com**
 
----
 
-### Contatos
-<p align="left">
-  <a href="https://www.linkedin.com/in/camillelimade/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-005200?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<!--### Contatos-->
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-18cb24?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillelimade/)-->
 
----
+
 
 ### Linguagens e Ferramentas
 
@@ -26,7 +21,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,linux&theme=dark" />
 </p>
 
----
+<!-- <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+</div> -->
+
 
 ### Minhas estatísticas
 
@@ -46,5 +62,11 @@
   />
 </p>
 
+<!-- <img src="https://raw.githubusercontent.com/camillelimade/camillelimade/output/snake.svg" alt="Snake animation" /> -->
 
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=18cb24"  />
+</div>
+
+###
 
