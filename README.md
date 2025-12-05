@@ -46,9 +46,18 @@
 
 ### Minhas estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillelimade&layout=donut&bg_color=000000&text_color=ffffff&title_color=00ff7f" alt="Donut de linguagens" />
-</p>
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+</p> -->
+
+
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/camillelimade?template=classic&languages=1" />
+</div>
 
 
 <!--<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,php,python,mysql&theme=darkmode" alt="Ícones de linguagens – widget skills" />-->
