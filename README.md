@@ -53,11 +53,22 @@
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
 </p> -->
 
-
+| ![Camille Stats Profile](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camillelimade&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillelimade&hide=Html&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillelimade&theme=dark) |
+| :-: | :-: | :-: |
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/camillelimade?template=classic&languages=1" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camillelimade&theme=dark)
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=camillelimade&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
+
 </div>
+
+
+
+<!-- <div align="center">
+  <img src="https://metrics.lecoq.io/camillelimade?template=classic&languages=1" />
+</div> -->
 
 
 <!--<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,php,python,mysql&theme=darkmode" alt="Ícones de linguagens – widget skills" />-->
