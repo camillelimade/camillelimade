@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, sou Camille </h1>
-<h3 align="center">💻 Finalizando formação em Técnico em Desenvolvimento de Sistemas</h3>
+<h3 align="center">💻 Técnica em Desenvolvimento de Sistemas </h3>
 
 
 ---
