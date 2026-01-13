@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, sou Camille </h1>
 <h3 align="center">💻 Técnica em Desenvolvimento de Sistemas </h3>
-
-
+<p align="center" href="https://linktr.ee/camillelimade">
+Minhas Redes </p>
 ---
 
 ###  Sobre mim
