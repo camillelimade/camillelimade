@@ -1,10 +1,5 @@
 <h1 align="center"> Olá, sou Camille </h1>
-<h1 align="left">💻 Técnica em Desenvolvimento de Sistemas </h1>
-<div align="center">
-
-</div>
-
----
+<h1 align="center">💻 Técnica em Desenvolvimento de Sistemas </h1>
 
 ###  Sobre mim
 -  Atualmente aprimorando meus conhecimentos **no curso de Análise de Dados do Google**
