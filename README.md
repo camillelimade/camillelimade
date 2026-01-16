@@ -1,8 +1,7 @@
 <h1 align="center"> Olá, sou Camille </h1>
-<h3 align="center">💻 Técnica em Desenvolvimento de Sistemas </h3>
+<h1 align="left">💻 Técnica em Desenvolvimento de Sistemas </h1>
 <div align="center">
-<a href="https://linktr.ee/camillelimade">
-Minhas Redes </a>
+
 </div>
 
 ---
@@ -11,6 +10,12 @@ Minhas Redes </a>
 -  Atualmente aprimorando meus conhecimentos **no curso de Análise de Dados do Google**
 -  Colaboradora no projeto [SACC - Sistema de Avaliação do Ceará Científico](https://github.com/JAndrade912/Sistema-Ceara-Cientifico-Crede-07)
 -  Onde me encontrar: **camilledds0@gmail.com**
+-  Participante da Trilha de Java do **[CapacitaiRede](https://capacitabrasil.irede.org.br/)**
+
+
+[![Linktree](https://img.shields.io/badge/Linktree-18cb24?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/camillelimade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillelimade/)
+[![Email](https://img.shields.io/badge/Email-camilledds0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilledds0@gmail.com)
 
 
 <!--### Contatos-->
