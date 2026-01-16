@@ -21,7 +21,7 @@ Minhas Redes </a>
 ### Linguagens e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,git,linux&theme=dark" />
 </p>
 
 <!-- <div align="left">
