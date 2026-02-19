@@ -2,7 +2,6 @@
 <h1 align="center">💻 Técnica em Desenvolvimento de Sistemas </h1>
 
 ###  Sobre mim
--  Atualmente aprimorando meus conhecimentos **no curso de Análise de Dados do Google**
 -  Colaboradora no projeto [SACC - Sistema de Avaliação do Ceará Científico](https://github.com/JAndrade912/Sistema-Ceara-Cientifico-Crede-07)
 -  Onde me encontrar: **camilledds0@gmail.com**
 -  Participante da Trilha de Java do **[CapacitaiRede](https://capacitabrasil.irede.org.br/)**
