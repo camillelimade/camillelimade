@@ -2,22 +2,17 @@
   <img src="/img/banner.png" width="100%">
 </p>
 
+<div align="center" style="width: 100%">
+  
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
+</div>
 
 <!--
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4B30CC&center=true&vCenter=true&width=600&lines=Camille+Lima;Backend+Developer;Java+%7C+Cloud+Student"/> 
 
 -->
-
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 
 # Sobre mim
 - Estou cursando **Análise e Desenvolvimento de Sistemas** pelo IFCE
@@ -63,5 +58,6 @@
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=4B30CC"  />
 </div>
+
 
 ###
