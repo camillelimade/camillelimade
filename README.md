@@ -3,6 +3,7 @@
 </p>
 
 ###  Sobre mim
+- Estou cursando Análise e Desenvolvimento de Sistemas pelo IFCE
 -  Colaboradora no projeto [SACC - Sistema de Avaliação do Ceará Científico](https://github.com/JAndrade912/Sistema-Ceara-Cientifico-Crede-07)
 -  Onde me encontrar: **camilledds0@gmail.com**
 -  Participante da Trilha de Java do **[CapacitaiRede](https://capacitabrasil.irede.org.br/)**
