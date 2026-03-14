@@ -1,5 +1,6 @@
-<h1 align="center"> Olá, sou Camille </h1>
-<h1 align="center">💻 Técnica em Desenvolvimento de Sistemas </h1>
+<p align="center">
+  <img src="/img/banner.png" width="100%">
+</p>
 
 ###  Sobre mim
 -  Colaboradora no projeto [SACC - Sistema de Avaliação do Ceará Científico](https://github.com/JAndrade912/Sistema-Ceara-Cientifico-Crede-07)
