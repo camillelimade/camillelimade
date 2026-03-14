@@ -2,6 +2,23 @@
   <img src="/img/banner.png" width="100%">
 </p>
 
+
+
+
+<!--
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4B30CC&center=true&vCenter=true&width=600&lines=Camille+Lima;Backend+Developer;Java+%7C+Cloud+Student"/> 
+
+-->
+
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 # Sobre mim
 - Estou cursando **Análise e Desenvolvimento de Sistemas** pelo IFCE
 -  Colaboradora no projeto [SACC - Sistema de Avaliação do Ceará Científico](https://github.com/JAndrade912/Sistema-Ceara-Cientifico-Crede-07)
@@ -17,7 +34,7 @@
 # Linguagens e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,aws,html,css,js,nodejs,bootstrap,figma,obsidian,mysql,vscode,idea,git&theme=dark" />
 </p>
 
 # Minhas estatísticas
